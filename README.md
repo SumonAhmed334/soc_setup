@@ -2,8 +2,6 @@
 
 ## Overview
 
-
-<img width="615" alt="main_pic" src="https://github.com/SumonAhmed334/soc_setup/assets/54459574/6dc2edf0-dc85-4b2f-8712-07e0137c7e12">
 <img width="1230" height="703" alt="image" src="https://github.com/user-attachments/assets/8f269a2e-1ceb-4281-80eb-0fe400353c0d" />
 
 This script automates the setup of a comprehensive security monitoring environment, including a Security Information and Event Management (SIEM) system,Network-based Intrusion Detection System (NIDS) and Host-based Intrusion Detection System (HIDS) on a single machine. It streamlines the installation process, making it accessible to users with different levels of technical expertise.
