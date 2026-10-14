@@ -1,4 +1,4 @@
-<img width="1230" height="703" alt="image" src="https://github.com/user-attachments/assets/84e84139-8ac6-41b8-b2c4-8a815d67ab5c" /># Automated SOC Components Setup Script
+Automated SOC Components Setup Script
 
 ## Overview
 
